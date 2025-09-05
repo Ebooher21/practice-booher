@@ -26,7 +26,9 @@ The main reasons to why it is my favorite show is due to its detailed **story te
 
 ---
 
-### Table of People I would like to meet
+### Table of People
+
+This table will list off some people in history that I would like to meet, as well as why, birth date, and date of death.
 
 |Name|why I picked them|birth date|date of death|
 |---|---|---|---|
