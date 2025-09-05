@@ -16,3 +16,9 @@ The main reasons to why it is my favorite show is due to its detailed **story te
 3. Tuco Salamanca
 4. Jesse Pinkman
 5. Saul Goodman
+
+#### Other Shows
+* Severance
+* The Sopranos
+* Better Call Saul
+
