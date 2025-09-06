@@ -36,3 +36,12 @@ This table will list off some people in history that I would like to meet, as we
 |Theodore Roosevelt|Would update him on the current political sphere and watch him become very disappointed.|October 27, 1858|January 6, 1919|
 |Chris Sawyer|In my opinion, he is the greatest game developer of all time. So I would ask him to teach me his ways.|February 14, 1969|n/a|
 |Siddartha Gautama|I would like to know how to reach Nirvana.|563 BCE|483 BCE|
+
+---
+
+### Favorite Qoutes
+
+> Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - *Albert Einstein*
+
+> A man who dares to waste on hour of time has not discovered the value of life. - *Charles Darwin*
+
