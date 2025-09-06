@@ -39,7 +39,7 @@ This table will list off some people in history that I would like to meet, as we
 
 ---
 
-### Favorite Qoutes
+### Favorite Quotes
 
 > Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - *Albert Einstein*
 
