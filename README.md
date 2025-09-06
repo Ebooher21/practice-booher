@@ -45,3 +45,19 @@ This table will list off some people in history that I would like to meet, as we
 
 > A man who dares to waste on hour of time has not discovered the value of life. - *Charles Darwin*
 
+---
+
+### Code Snippet
+
+Finds an array with elements that are also in two other arrays.
+
+```
+const intersection = (a, b) => {
+  const s = new Set(b);
+
+  return a.filter(x => s.has(x));
+};
+```
+
+[JavaScript code snippets](https://pieces.app/collections/javascript)
+
